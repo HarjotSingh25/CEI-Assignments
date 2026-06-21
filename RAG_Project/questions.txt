@@ -1,0 +1,60 @@
+BASIC QUESTIONS
+1. What is the objective of this project?
+2. What dataset was used in this study?
+3. How many cases were selected from VitalDB?
+4. What physiological signals were collected?
+5. What is VitalDB?
+
+DATA COLLECTION QUESTIONS
+6. What tracks were extracted from VitalDB?
+7. What data format was used to store the extracted signals?
+8. How was the data downloaded?
+9. What signals were included in each case?
+
+PREPROCESSING QUESTIONS
+10. How were missing values handled?
+11. What preprocessing techniques were applied?
+12. Why was interpolation used?
+13. How was signal quality improved?
+
+FEATURE ENGINEERING QUESTIONS
+14. What features were extracted from ECG?
+15. What features were extracted from HR?
+16. What features were extracted from MAP?
+17. What features were extracted from SPO2?
+18. What advanced physiological indicators were derived?
+
+MODEL QUESTIONS
+19. What machine learning models were used?
+20. Why was Random Forest selected?
+21. How was class imbalance handled?
+22. What evaluation metrics were used?
+23. Which model performed best?
+
+CLINICAL QUESTIONS
+24. What is hypotension?
+25. How is hypotension detected in this system?
+26. What is tachycardia?
+27. How is low SPO2 identified?
+28. What clinical events does the system predict?
+
+ARCHITECTURE QUESTIONS
+29. Describe the complete pipeline of the system.
+30. Explain the workflow from data collection to prediction.
+31. What are the major phases of the project?
+32. How does the early warning system work?
+33. What role does feature engineering play in this project?
+
+FUTURE WORK QUESTIONS
+34. What improvements can be made to the system?
+35. How can deep learning be integrated into the framework?
+36. Can this system be used in real-time ICU monitoring?
+37. What are the limitations of the current implementation?
+38. What future enhancements are suggested?
+
+CHALLENGING QUESTIONS
+39. Summarize the entire project in 5 points.
+40. Explain the methodology of the project.
+41. What are the key findings of the study?
+42. How does the proposed system help ICU staff?
+43. Why is an early warning system important in healthcare?
